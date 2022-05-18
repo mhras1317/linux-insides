@@ -1,3 +1,4 @@
+مراحل بوت شدن کرنل
 # Kernel Boot Process
 
 This chapter describes the linux kernel boot process. Here you will see a series of posts which describes the full cycle of the kernel loading process:
